@@ -20,9 +20,9 @@
 ### 1. Instalasi di Windows, macOS, atau Linux
 **JavaScript (Node.js)**
 1. Pastikan [Node.js](https://nodejs.org/) telah diinstal.
-2. Instal **Axios**:
+2. Instal **Axios (Sudah include di file package.json)**:
    ```bash
-   npm install axios
+   npm install
    ```
 3. Instal **Git** jika belum terpasang:
    - Windows: [Download Git](https://git-scm.com/download/win)
