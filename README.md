@@ -119,4 +119,4 @@ Jika Anda ingin mendukung pengembangan proyek ini, silakan berdonasi melalui [Sa
 - [Git](https://git-scm.com) untuk version control
 
 ## Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT.
+Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detailnya.
