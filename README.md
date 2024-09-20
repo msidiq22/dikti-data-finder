@@ -11,7 +11,7 @@
 - Kompatibel dengan **Windows**, **macOS**, **Linux**, dan **Android** (Termux)
 - Memungkinkan integrasi mudah dengan proyek lain melalui API
 
-## Bahasa Pemprograman dan Modul Yang Dipakai
+## Bahasa Pemrograman dan Modul Yang Dipakai
 - **JavaScript**: Axios digunakan untuk melakukan permintaan HTTP
 - **Python**: Requests module digunakan untuk melakukan permintaan HTTP
 
@@ -30,7 +30,15 @@
      ```bash
      sudo apt-get install git
      ```
-4. Jalankan skrip dengan perintah:
+4. Clone repositori proyek ini:
+   ```bash
+   git clone https://github.com/maulananais/dikti-data-finder.git
+   ```
+5. Masuk ke direktori proyek:
+   ```bash
+   cd dikti-data-finder
+   ```
+6. Jalankan skrip dengan perintah:
    ```bash
    node dikti.js
    ```
@@ -41,7 +49,15 @@
    ```bash
    pip install requests
    ```
-3. Jalankan skrip Python sesuai dengan perangkat Anda:
+3. Clone repositori proyek ini:
+   ```bash
+   git clone https://github.com/maulananais/dikti-data-finder.git
+   ```
+4. Masuk ke direktori proyek:
+   ```bash
+   cd dikti-data-finder
+   ```
+5. Jalankan skrip Python sesuai dengan perangkat Anda:
    - Windows:
      ```bash
      python dikti.py
@@ -61,7 +77,7 @@
    ```
 3. Clone repositori proyek ini dengan perintah:
    ```bash
-   git clone https://github.com/username/dikti-data-finder.git
+   git clone https://github.com/maulananais/dikti-data-finder.git
    ```
 4. Masuk ke direktori proyek:
    ```bash
