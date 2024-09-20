@@ -1,0 +1,12 @@
+{
+  "name": "dikti",
+  "version": "1.0.0",
+  "description": "Mencari data mahasiswa",
+  "main": "dikti.js",
+  "scripts": {
+    "start": "node dikti.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
