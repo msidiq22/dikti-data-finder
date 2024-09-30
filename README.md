@@ -45,9 +45,9 @@
 
 **Python**
 1. Pastikan [Python](https://www.python.org/) dan [pip](https://pip.pypa.io/en/stable/installation/) sudah terinstal.
-2. Instal modul **Requests**:
+2. Instal modul:
    ```bash
-   pip install requests
+   pip install requests csv time
    ```
 3. Clone repositori proyek ini:
    ```bash
